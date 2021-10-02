@@ -54,10 +54,6 @@ sections:
     has_background: false
     background_color: white
     type: cta_section
-  - type: blog_feed_section
-    title: What's New
-    show_recent: true
-    recent_count: 3
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
