@@ -63,17 +63,7 @@ sections:
       background_image: /images/diagonal-lines.svg
     type: hero_section
   - title: Solution
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "Maturity Mapping addresses this, allowing you to:\n\n*   Reveal the capabilities you have already have\n\n*   Discover the new capabilities you need to meet your strategy\n\n*   Understand the change required to improve your capabilities through practices, the concrete things you do\n\nMaturity Mapping visualises these capabilities on a set of linked maps.\_\_\n\nThis provides you with a custom maturity model contextualised to your organisation.\_\_\n\nIt means that rather than directly grading yourself against what another company or book says is good, you can develop your own maturity model, that takes inspiration from other sources, but is contextualised to what matters to you.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaturity\nMapping addresses this, allowing you to:\n\n\n \n \n \n\n\_\n\nMaturity\nMapping visualises these capabilities on a set of linked maps.\_\_\n\n\_\n\nThis\nprovides you with a custom maturity model contextualised to your\norganisation.\_\_\n\n\_\n\nIt\nmeans that rather than directly grading yourself against what another company\nor book says is good, you can develop your own maturity model, that takes\ninspiration from other sources, but is contextualised to what matters to you.\n"
     type: content_section
 seo:
   title: Stackbit Starter Theme
