@@ -55,7 +55,7 @@ sections:
     background_color: white
     type: cta_section
   - title: Solution
-    subtitle: lorem-ipsum
+    subtitle: 'Maturity Mapping addresses this, allowing you to:'
     actions: []
     align: left
     image_alt: lorem-ipsum
