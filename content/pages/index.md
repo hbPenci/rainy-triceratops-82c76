@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: features_section
-    title: 'Reveal, discover, understand'
+    title: 'Maturity Mapping: Reveal, discover, understand'
     features:
       - title: Reveal
         content: |
