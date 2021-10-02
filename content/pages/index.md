@@ -48,7 +48,7 @@ sections:
         style: primary
     has_background: true
     background_color: gray
-  - title: lorem-ipsum
+  - title: Solution
     subtitle: lorem-ipsum
     actions: []
     has_background: false
