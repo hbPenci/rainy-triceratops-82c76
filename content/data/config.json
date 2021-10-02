@@ -6,7 +6,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "About Us",
+                "label": "Resources",
                 "url": "/features",
                 "style": "link"
             },
