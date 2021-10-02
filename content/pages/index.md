@@ -49,20 +49,6 @@ sections:
     has_background: true
     background_color: gray
   - title: Solution
-    subtitle: 'Maturity Mapping addresses this, allowing you to:'
-    actions: []
-    align: left
-    image_alt: lorem-ipsum
-    image_position: left
-    has_background: false
-    background:
-      background_color: blue
-      background_image_opacity: 0
-      background_image_size: cover
-      background_image_repeat: repeat
-      background_image: /images/diagonal-lines.svg
-    type: hero_section
-  - title: Solution
     content: "Maturity Mapping addresses this, allowing you to:\n\n*   Reveal the capabilities you have already have\n\n*   Discover the new capabilities you need to meet your strategy\n\n*   Understand the change required to improve your capabilities through practices, the concrete things you do\n\nMaturity Mapping visualises these capabilities on a set of linked maps.\_\_\n\nThis provides you with a custom maturity model contextualised to your organisation.\_\_\n\nIt means that rather than directly grading yourself against what another company or book says is good, you can develop your own maturity model, that takes inspiration from other sources, but is contextualised to what matters to you.\n\n### Value:\n\n Ensuring better chance of success at strategy by focusing on what matters\n\n\n### How: \n\nSome high level description of how (ie facilitated discussion to reveal, discover, and understand)\n"
     type: content_section
 seo:
