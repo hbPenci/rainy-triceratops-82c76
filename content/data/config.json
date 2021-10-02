@@ -6,7 +6,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "What is MM",
+                "label": "What is Maturity Mapping",
                 "url": "/features",
                 "style": "link"
             },
