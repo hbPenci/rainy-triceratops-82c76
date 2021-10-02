@@ -49,7 +49,17 @@ sections:
     has_background: true
     background_color: gray
   - title: Solution
-    subtitle: lorem-ipsum
+    subtitle: >-
+      Maturity Mapping addresses this, allowing you to: Reveal the capabilities
+      you have already have Discover the new capabilities you need to meet your
+      strategy Understand the change required to improve your capabilities
+      through practices, the concrete things you do  Maturity Mapping visualises
+      these capabilities on a set of linked maps.    This provides you with a
+      custom maturity model contextualised to your organisation.    It means
+      that rather than directly grading yourself against what another company or
+      book says is good, you can develop your own maturity model, that takes
+      inspiration from other sources, but is contextualised to what matters to
+      you.
     actions: []
     has_background: false
     background_color: white
