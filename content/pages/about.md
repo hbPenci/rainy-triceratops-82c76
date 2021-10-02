@@ -10,7 +10,7 @@ sections:
     title: Call to Action
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     actions:
-      - label: Contact Us
+      - label: action
         url: /contact
         style: secondary
     has_background: true
