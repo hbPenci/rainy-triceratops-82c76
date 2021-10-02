@@ -49,7 +49,7 @@ sections:
     has_background: true
     background_color: gray
   - title: Solution
-    subtitle: 'Maturity Mapping addresses this, allowing you to:'
+    subtitle: "Maturity Mapping addresses this, allowing you to:\_Reveal the capabilities you have already haveDiscover the new capabilities you need to meet your strategyUnderstand the change required to improve your capabilities through practices, the concrete things you do"
     actions: []
     align: left
     image_alt: lorem-ipsum
