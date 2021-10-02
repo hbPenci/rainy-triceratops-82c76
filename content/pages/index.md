@@ -43,7 +43,7 @@ sections:
       Even the best strategies fail when organisations do not recognise and
       develop the capabilities required to meet their strategy. 
     actions:
-      - label: Learn More
+      - label: solution
         url: /features
         style: primary
     has_background: true
