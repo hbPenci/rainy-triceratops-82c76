@@ -40,7 +40,7 @@ sections:
             style: secondary
       - title: Discover
         content: |
-          discover the new capabilities you need
+          Discover the new capabilities you need
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
