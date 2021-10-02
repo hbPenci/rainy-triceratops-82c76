@@ -40,8 +40,8 @@ sections:
   - type: cta_section
     title: Problem
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Even the best strategies fail when organisations do not recognise and
+      develop the capabilities required to meet their strategy. 
     actions:
       - label: Learn More
         url: /features
