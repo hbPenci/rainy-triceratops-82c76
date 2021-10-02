@@ -62,7 +62,7 @@ sections:
       background_image_repeat: repeat
       background_image: /images/diagonal-lines.svg
     type: hero_section
-  - title: lorem-ipsum
+  - title: Solution
     content: >-
       ## Lorem ipsum
 
