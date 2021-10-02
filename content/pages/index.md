@@ -56,7 +56,7 @@ sections:
     image_position: left
     has_background: false
     background:
-      background_color: white
+      background_color: gray
       background_image_opacity: 0
       background_image_size: cover
       background_image_repeat: no-repeat
