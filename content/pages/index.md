@@ -51,12 +51,6 @@ sections:
   - title: Solution
     subtitle: 'Maturity Mapping addresses this, allowing you to:'
     actions: []
-    has_background: false
-    background_color: white
-    type: cta_section
-  - title: Solution
-    subtitle: 'Maturity Mapping addresses this, allowing you to:'
-    actions: []
     align: left
     image_alt: lorem-ipsum
     image_position: left
