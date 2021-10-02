@@ -27,7 +27,7 @@ sections:
   - type: features_section
     title: 'Reveal, discover, understand'
     features:
-      - title: Feature 1
+      - title: 'Reveal, discover, understand'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
