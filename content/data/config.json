@@ -6,7 +6,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Features",
+                "label": "What is MM",
                 "url": "/features",
                 "style": "link"
             },
