@@ -39,10 +39,8 @@ sections:
             url: /features
             style: secondary
       - title: Discover
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: |
+          discover the new capabilities you need
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
