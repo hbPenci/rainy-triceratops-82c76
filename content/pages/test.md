@@ -16,7 +16,7 @@ sections:
         style: secondary
     has_background: true
     background_color: blue
-  - title: lorem-ipsum
+  - title: team MM
     team:
       - content/data/team/person-kq1q9gr3m.json
       - content/data/team/person-mvznlphux.json
