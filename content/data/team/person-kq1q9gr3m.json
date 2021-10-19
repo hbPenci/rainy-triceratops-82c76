@@ -4,6 +4,6 @@
     "first_name": "bob",
     "last_name": "persona",
     "photo_alt": "lorem-ipsum",
-    "bio": "## thingy1\n\nLorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n*   Lorem ipsum\n*   dolor sit amet\n",
+    "bio": "## ![](/images/stock3.jpg)\n\nthingy1\n\nLorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n*   Lorem ipsum\n*   dolor sit amet\n",
     "type": "person"
 }
