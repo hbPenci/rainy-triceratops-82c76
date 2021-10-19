@@ -1,5 +1,5 @@
 ---
-title: Definitions
+title: Define Maturity Maps
 seo:
   title: ''
   description: ''
