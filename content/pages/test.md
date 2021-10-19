@@ -19,6 +19,7 @@ sections:
   - title: lorem-ipsum
     team:
       - content/data/team/person-kq1q9gr3m.json
+      - content/data/team/person-mvznlphux.json
     type: team_section
 seo:
   title: Who We Are
