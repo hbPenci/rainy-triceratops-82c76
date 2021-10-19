@@ -17,7 +17,8 @@ sections:
     has_background: true
     background_color: blue
   - title: lorem-ipsum
-    team: []
+    team:
+      - content/data/team/person-kq1q9gr3m.json
     type: team_section
 seo:
   title: Who We Are
