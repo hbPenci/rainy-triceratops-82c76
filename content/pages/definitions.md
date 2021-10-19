@@ -7,11 +7,11 @@ seo:
   extra: []
 layout: page
 ---
-## The **anchor**
+### The **anchor**
 
 At the the top of every map is the anchor:  This describes who has the need and what is their need that the practices on the map are serving.
 
-## What **placement** means
+### What **placement** means
 
 The Y axis represents how visible the practice is to those who have the need. If they interact with, or play a part in the practice then it is positioned near the top or is it something that they do not even know exists, therefore positioned further down.
 
@@ -26,7 +26,7 @@ To help with positioning we use the following guides:
 
 *   Best: Doing all aspects of the practice consistently, unlikely to need focused improvement effort and could be considered an exemplar.
 
-## What the **symbols** mean
+### What the **symbols** mean
 
 On the map itself we visualise capabilities as squares and link them to other maps that describe the practices that compose it.
 Practices are circles. 
