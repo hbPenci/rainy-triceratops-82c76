@@ -26,7 +26,8 @@
                 "style": "primary"
             }
         ],
-        "logo": "/images/whiteLOGO.png"
+        "logo": "/images/whiteLOGO.png",
+        "logo_alt": "matruity mapping"
     },
     "footer": {
         "has_nav": true,
