@@ -20,6 +20,7 @@ sections:
     team:
       - content/data/team/person-kq1q9gr3m.json
       - content/data/team/person-mvznlphux.json
+      - content/data/team/person-mgsnrik5v.json
     type: team_section
 seo:
   title: Who We Are
